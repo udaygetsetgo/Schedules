@@ -1,6 +1,7 @@
 {
-    "shiftDetails": [{
-        "Sun": {
+    "shiftDetails": [
+        {
+            "id": "Sun",
             "shiftList": [
                 {
                     "id": 0,
@@ -20,7 +21,8 @@
             ],
             "isDayEnabled": false
         },
-        "Mon": {
+        {
+            "id": "Mon",
             "shiftList": [
                 {
                     "id": 0,
@@ -40,7 +42,8 @@
             ],
             "isDayEnabled": false
         },
-        "Tue": {
+        {
+            "id": "Tue",
             "shiftList": [
                 {
                     "id": 0,
@@ -60,7 +63,8 @@
             ],
             "isDayEnabled": false
         },
-        "Wed": {
+        {
+            "id": "Wed",
             "shiftList": [
                 {
                     "id": 0,
@@ -80,7 +84,8 @@
             ],
             "isDayEnabled": false
         },
-        "Thu": {
+        {
+            "id": "Thu",
             "shiftList": [
                 {
                     "id": 0,
@@ -100,7 +105,8 @@
             ],
             "isDayEnabled": false
         },
-        "Fri": {
+        {
+            "id": "Fri",
             "shiftList": [
                 {
                     "id": 0,
@@ -120,7 +126,8 @@
             ],
             "isDayEnabled": false
         },
-        "Sat": {
+        {
+            "id": "Sat",
             "shiftList": [
                 {
                     "id": 0,
@@ -140,5 +147,5 @@
             ],
             "isDayEnabled": false
         }
-    }]
+    ]
 }

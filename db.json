@@ -1,5 +1,5 @@
 {
-    "shiftDetails": [
+    "shiftDetails": [{
         "Sun": {
             "shiftList": [
                 {
@@ -140,5 +140,5 @@
             ],
             "isDayEnabled": false
         }
-    ]
+    }]
 }
